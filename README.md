@@ -25,29 +25,22 @@ The project is structured into modular blocks, each serving a specific purpose i
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/financial-markets-ml-trading.git
-cd financial-markets-ml-trading
+gh repo clone SrikarRavella/Navigating-The-Financial-Markets-ML-Powered-Stock-Trading-and-Portfolio-Management
+cd Navigating-The-Financial-Markets-ML-Powered-Stock-Trading-and-Portfolio-Management
 ```
 
 2. Install the required dependencies:
 
-```bash
-pip install -r requirements.txt
-```
+tensorflow==2.7.0
+numpy==1.21.3
+pandas==1.3.3
+matplotlib==3.4.3
 
 3. Replace the sample CSV files with your actual financial time series data:
 
    - `training_data.csv`: Historical data used for model training.
    - `new_data.csv`: New data on which the trading strategy will be executed.
 
-4. Run the main script:
-
-```bash
-python main.py
-```
-
 ## Contributions
 
 Contributions are welcome! If you have ideas for improvements, additional features, or bug fixes, feel free to open an issue or submit a pull request.
-
----
