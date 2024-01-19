@@ -2,7 +2,7 @@
 
 ## Overview
 
-This GitHub repository contains a Python implementation of an algorithmic trading strategy for navigating financial markets. The strategy utilizes machine learning, specifically TensorFlow, to make trading decisions based on a combination of Exponential Moving Averages (EMA) and Standard Deviation indicators.
+It is an Python implementation of an algorithmic trading strategy for navigating financial markets. The strategy utilizes machine learning, specifically TensorFlow, to make trading decisions based on a combination of Exponential Moving Averages (EMA) and Standard Deviation indicators.
 
 The project is structured into modular blocks, each serving a specific purpose in the trading pipeline:
 
